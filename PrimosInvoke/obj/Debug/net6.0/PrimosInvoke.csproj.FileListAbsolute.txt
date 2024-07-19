@@ -1,0 +1,59 @@
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.exe
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.deps.json
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.runtimeconfig.json
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.dll
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\ref\PrimosInvoke.dll
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.pdb
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.AssemblyReference.cache
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfoInputs.cache
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfo.cs
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.CoreCompileInputs.cache
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.dll
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\ref\PrimosInvoke.dll
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.pdb
+D:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.genruntimeconfig.cache
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.exe
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.deps.json
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.runtimeconfig.json
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.dll
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.pdb
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.AssemblyReference.cache
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.GeneratedMSBuildEditorConfig.editorconfig
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfoInputs.cache
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfo.cs
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.CoreCompileInputs.cache
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.dll
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\refint\PrimosInvoke.dll
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.pdb
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.genruntimeconfig.cache
+G:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\ref\PrimosInvoke.dll
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.exe
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.deps.json
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.runtimeconfig.json
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.dll
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.pdb
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.GeneratedMSBuildEditorConfig.editorconfig
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfoInputs.cache
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfo.cs
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.CoreCompileInputs.cache
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.dll
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\refint\PrimosInvoke.dll
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.pdb
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.genruntimeconfig.cache
+F:\1. Faculdade\3. Terceiro Semestre\Prática de Programação\3. Aula\tpAula03-1\PrimosInvoke\PrimosInvoke\obj\Debug\net6.0\ref\PrimosInvoke.dll
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.exe
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.deps.json
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.runtimeconfig.json
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.dll
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\bin\Debug\net6.0\PrimosInvoke.pdb
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfoInputs.cache
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.AssemblyInfo.cs
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.csproj.CoreCompileInputs.cache
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.sourcelink.json
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.dll
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\refint\PrimosInvoke.dll
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.pdb
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\PrimosInvoke.genruntimeconfig.cache
+C:\Users\aizaw\OneDrive\Documentos\GitHub\contadorInvoke\PrimosInvoke\obj\Debug\net6.0\ref\PrimosInvoke.dll
